@@ -10,4 +10,8 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 ## Participantes de la cursada
+<<<<<<< HEAD
 Ivan Zerzer, ivanzerzer
+=======
+- Daniel Guzman, dguzman-ort
+>>>>>>> 67c97f051924e6762bf028f3b4b68bf9c3428307
