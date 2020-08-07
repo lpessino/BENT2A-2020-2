@@ -10,6 +10,9 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 ## Participantes de la cursada
+
+- Florencia Do Nascimento, mflorenciadn
 - Daniel Guzman, dguzman-ort
 - Rodrigo Bellanti, RodrigoBellanti
 - Fernando Olivero, ferolivero
+
