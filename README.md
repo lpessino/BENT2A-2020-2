@@ -10,4 +10,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 ## Participantes de la cursada
-Ivan Zerzer, izerzer
+Ivan Zerzer, ivanzerzer
