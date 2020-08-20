@@ -17,3 +17,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Kevin Vuylsteke, KevinVuylsteke
 - Lopez Lacal Tomas Manuel
 - Ivan Zerzer, ivanzerzer
+- Ignacio Sbaraglia, shogakukan
