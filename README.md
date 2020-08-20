@@ -16,3 +16,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Fernando Olivero, ferolivero
 - Kevin Vuylsteke, KevinVuylsteke
 - Lopez Lacal Tomas Manuel
+- Ivan Zerzer, ivanzerzer
