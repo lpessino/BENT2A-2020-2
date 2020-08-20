@@ -12,7 +12,8 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 ## Participantes de la cursada
 - Daniel Guzman, dguzman-ort
 - Florencia Do Nascimento, mflorenciadn
-- Daniel Guzman, dguzman-ort
 - Rodrigo Bellanti, RodrigoBellanti
 - Fernando Olivero, ferolivero
+- Kevin Vuylsteke, KevinVuylsteke
+- Lopez Lacal Tomas Manuel
 - Ivan Zerzer, ivanzerzer
