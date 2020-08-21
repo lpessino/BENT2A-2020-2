@@ -10,6 +10,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 ## Participantes de la cursada
+<<<<<<< HEAD
 - Daniel Guzman, dguzman-ort
 - Florencia Do Nascimento, mflorenciadn
 - Rodrigo Bellanti, RodrigoBellanti
@@ -18,3 +19,6 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Lopez Lacal Tomas Manuel
 - Ivan Zerzer, ivanzerzer
 - Ignacio Sbaraglia, shogakukan
+=======
+Lucia Pessino, lpessino
+>>>>>>> 32234e53edb7ee6866804056c6825796d8858300
